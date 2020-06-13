@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Research - Xingbo Fu</title>
+  <meta name="description" content="">
+  <link rel="shortcut icon" type="image/png" href="/images/icon.png">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://0.0.0.0:4000/research/">
+  <link rel="alternate" type="application/rss+xml" title="Owen" href="http://0.0.0.0:4000/feed.xml" />
+<link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.2.4' type='text/css' media='all' />
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web:600italic,600,400,400italic' rel='stylesheet' type='text/css'>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">Home</a>
+
+
+    <nav class="site-nav">
+
+      <a href="#" class="menu-icon menu.open">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>  
+
+    <div class="trigger"><h1>Navigation</h1>
+
+ 		<ul class="menu">
+
+    
+    
+     <li><a href="/publications/" class="page-link">Publications</a>
+    
+    </li>
+    
+    
+     <li><a href="/research/" class="page-link">Research</a>
+    
+    </li>
+    
+    
+     <li><a href="/cv/" class="page-link">CV</a>
+    
+    </li>
+    
+</ul>
+
+
+     </div>  
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <style type="text/css">
+      html,body {
+        margin: 0;
+        padding: 0;
+      }
+
+      .fixed-bottom {position: fixed;bottom: 0;width:100%;}
+    </style>
+
+    <script src="https://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(function(){
+        function footerPosition(){
+          $("footer").removeClass("fixed-bottom");
+          var contentHeight = document.body.scrollHeight,
+          winHeight = window.innerHeight;
+          if(!(contentHeight > winHeight)){
+            $("footer").addClass("fixed-bottom");
+          } else {
+            $("footer").removeClass("fixed-bottom");
+          }
+        }
+        footerPosition();
+        $(window).resize(footerPosition);
+      });
+    </script>
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+  	<style type="text/css">
+      html,body {
+        margin: 0;
+        padding: 0;
+      }
+
+      .fixed-bottom {position: fixed;bottom: 0;width:100%;}
+    </style>
+
+    <script src="http://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(function(){
+        function footerPosition(){
+          $("footer").removeClass("fixed-bottom");
+          var contentHeight = document.body.scrollHeight,
+          winHeight = window.innerHeight;
+          if(!(contentHeight > winHeight)){
+            $("footer").addClass("fixed-bottom");
+          } else {
+            $("footer").removeClass("fixed-bottom");
+          }
+        }
+        footerPosition();
+        $(window).resize(footerPosition);
+      });
+    </script>
+
+
+    <h1 class="post-title">Research</h1>
+  </header>
+
+  <article class="post-content">
+    <h2>Attention-based Twin Delayed Deep Deterministic policy gradient (ATD3)</h2>
+<table style="border-width: 0; margin-bottom: 10px">
+  <tr>
+    <td>
+      <p style="text-align: justify">We propose an actor-critic method - Attention-based Twin Delayed Deep Deterministic policy gradient (ATD3) algorithm to approximate a driver's action according to observations and measure the driver's attention allocation for consecutive time steps in car-following model. Considering reaction time, we construct the attention mechanism in the actor network to capture temporal dependencies of consecutive observations. In the critic network, we employ Twin Delayed Deep Deterministic policy gradient algorithm (TD3) to address overestimated value estimates persisting in the actor-critic algorithm.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="paper6.pdf"><div class="paper">Paper</div></a>
+      <a href="https://github.com/xbfu/ATD3"><div class="code">Code</div></a>
+    </td>
+  </tr>
+</table>
+
+<h2>Spatiotemporal Attention Network (STAN)</h2>
+<table style="border-width: 0; margin-bottom: 10px">
+  <tr>
+    <td>
+      <p style="text-align: justify">The spatiotemporal attention network (STAN) model captures spatial correlations among different stations and temporal dependencies of time series. The STAN model employs a multi-head self-attention mechanism to extract spatial correlations among stations and temporal dependencies are captured by the Sequence-to-Sequence (Seq2Seq) model with a global attention mechanism.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="paper5.pdf"><div class="paper">Paper</div></a>
+      <a href="STAN.pdf"><div class="slides">Slides</div></a>
+      <a href="https://github.com/xbfu/Spatiotemporal-Attention-Networks"><div class="code">Code</div></a>
+    </td>
+  </tr>
+</table>
+
+<h2>Big Data Computing Platform for Energy Internet</h2>
+<table style="border-width: 0; margin-bottom: 10px">
+  <tr>
+    <td>
+      <p style="text-align: justify">We build a big platform with Hadoop and Spark. This platform consists of solar power, wind power, user load and smart buildings. Our platform integrates various applications such as monitoring power generation, online clustering, spatial relation analysis and historical data query.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href=""><div class="report">Report</div></a>
+    </td>
+  </tr>
+</table>
+
+<h2>Simulation Appraoch to Solar Irradiance Data</h2>
+<table style="border-width: 0; margin-bottom: 10px">
+  <tr>
+    <td>
+      <p style="text-align: justify">Solar energy is one of important renewable energy sources and simulation of solar irradiance can be used as input for simulation of photovoltaic generation. We proposes a simulation algorithm of multi-station solar irradiance data considering temporal correlations. All the days of the observed data are grouped to <i>k</i> clusters for each station based on their daily features of solar irradiance and the daily states constitute Markov chain of days. And state permutations of different stations are reduced before getting Markov Transition Probability Matrix (MTPM). Based on the observed data and MTPM, the simulation approach is proposed.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="paper4.pdf"><div class="paper">Paper1</div></a>
+      <a href="paper2.pdf"><div class="paper">Paper2</div></a>
+      <a href="A Simulation Approach to Multi-station Solar Irradiance Data.pdf"><div class="slides">Slides</div></a>
+    </td>
+  </tr>
+</table>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+      <footer style="padding-top: 15px">
+      <div class="wrapper" style="height: 35px">
+        ©2020 Xingbo Fu, Powered by <a href="https://jekyllrb.com/" style="color: #828282">Jekyll</a> & <a href="https://github.com/ys1998/academic-portfolio" style="color: #828282">Academic Portfolio</a>.
+      </div>
+  </footer>
+
+  </body>
+
+</html>

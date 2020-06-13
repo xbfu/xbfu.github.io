@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+  	<style type="text/css">
+      html,body {
+        margin: 0;
+        padding: 0;
+      }
+
+      .fixed-bottom {position: fixed;bottom: 0;width:100%;}
+    </style>
+
+    <script src="http://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(function(){
+        function footerPosition(){
+          $("footer").removeClass("fixed-bottom");
+          var contentHeight = document.body.scrollHeight,
+          winHeight = window.innerHeight;
+          if(!(contentHeight > winHeight)){
+            $("footer").addClass("fixed-bottom");
+          } else {
+            $("footer").removeClass("fixed-bottom");
+          }
+        }
+        footerPosition();
+        $(window).resize(footerPosition);
+      });
+    </script>
+
+
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
