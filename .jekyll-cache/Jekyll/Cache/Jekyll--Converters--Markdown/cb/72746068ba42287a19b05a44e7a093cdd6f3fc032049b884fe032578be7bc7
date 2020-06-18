@@ -1,0 +1,45 @@
+I"	<p><img src="'./images/profile.jpg'" alt="alt 属性文本" />
+<img src="./images/profile.jpg" alt="avatar" />
+<img src="./images/profile.jpg" style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff" /></p>
+<h2>2020</h2>
+<ul>
+	<li>
+		<b>Online Clustering based Fault Data Detection Method for Distributed PV Sites</b><br />
+		<i>Shujie Wang, Feng Gao, Jiang Wu , Chao Zheng , <b>Xingbo Fu</b>, Fangwei Duan</i><br />
+		Chinese Control Conference (CCC 2020), Shenyang, China.<br />
+	</li>
+	<li>
+		<b>When Do Drivers Concentrate? Attention-based Driver Behavior Modeling With Deep Reinforcement Learning</b><br />
+		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu</i><br />
+		Preprint<br />
+		<a href="paper6.pdf"><div class="paper">PDF</div></a>
+        <a href="https://github.com/xbfu/ATD3"><div class="code">Code</div></a>
+	</li>
+</ul>
+
+<h2>2019</h2>
+<ul>
+	<li>
+		<b>Spatiotemporal Attention Networks for Wind Power Forecasting</b><br />
+		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu, Xinyu Wei, Fangwei Duan</i><br />
+		International Conference on Data Mining Workshops (ICDM 2019 Workshops), Beijing, China.<br />
+        <a href="paper5.pdf"><div class="paper">PDF</div></a>
+        <a href="STAN.pdf"><div class="slides">Slides</div></a>
+        <a href="https://github.com/xbfu/Spatiotemporal-Attention-Networks"><div class="code">Code</div></a>
+	</li>
+	<li>
+		<b>A Simulation Approach to Multi-station Solar Irradiance Data Considering Temporal Correlations</b><br />
+		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu, Ruanming Huang, Yichao Huang, Fei Fei</i><br />
+		International Conference on Innovative Smart Grid Technologies (ISGT Asia 2019), Chengdu, China.<br />
+        <a href="paper4.pdf"><div class="paper">PDF</div></a>
+        <a href="A Simulation Approach to Multi-station Solar Irradiance Data.pdf"><div class="slides">Slides</div></a>
+	</li>
+	<li>
+		<b>"Wind Power Capacity Planning in Enterprise’s Microgrid based on Approximation Expectation of Operation Cost</b><br />
+		<i>Yuzhou Zhou, Qiaozhu Zhai, <b>Xingbo Fu</b>, Xiaohong Guan, Feng Gao, Jiang Wu, Zhanbo Xu</i><br />
+		IEEE Power &amp; Energy Society General Meeting (PESGM 2019), Atlanta, GA, USA.<br />
+        <a href="paper3.pdf"><div class="paper">PDF</div></a>
+	</li>
+</ul>
+
+:ET

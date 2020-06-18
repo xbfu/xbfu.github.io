@@ -6,7 +6,7 @@
     <url>
       <loc>http://0.0.0.0:4000/cv/</loc>
       
-        <lastmod>2020-06-13T11:14:17+08:00</lastmod>
+        <lastmod>2020-06-18T11:17:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -21,7 +21,7 @@
     <url>
       <loc>http://0.0.0.0:4000/feed.xml</loc>
       
-        <lastmod>2020-06-13T11:14:17+08:00</lastmod>
+        <lastmod>2020-06-18T11:17:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -36,7 +36,7 @@
     <url>
       <loc>http://0.0.0.0:4000/</loc>
       
-        <lastmod>2020-06-13T11:14:17+08:00</lastmod>
+        <lastmod>2020-06-18T11:17:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,7 +51,7 @@
     <url>
       <loc>http://0.0.0.0:4000/css/main.css</loc>
       
-        <lastmod>2020-06-13T11:14:17+08:00</lastmod>
+        <lastmod>2020-06-18T11:17:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,7 +66,22 @@
     <url>
       <loc>http://0.0.0.0:4000/publications/</loc>
       
-        <lastmod>2020-06-13T11:14:17+08:00</lastmod>
+        <lastmod>2020-06-18T11:17:04+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://0.0.0.0:4000/qr</loc>
+      
+        <lastmod>2020-06-18T11:17:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -81,7 +96,7 @@
     <url>
       <loc>http://0.0.0.0:4000/research/</loc>
       
-        <lastmod>2020-06-13T11:14:17+08:00</lastmod>
+        <lastmod>2020-06-18T11:17:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -98,7 +113,7 @@
     <url>
       <loc>http://0.0.0.0:4000/css/main.css.map</loc>
       
-        <lastmod>2020-06-13T11:14:17+08:00</lastmod>
+        <lastmod>2020-06-18T11:17:04+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
