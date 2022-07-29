@@ -1,0 +1,268 @@
+/**
+ * Site footer
+ */
+.site-footer {
+    border-top: 1px solid $grey-color-light;
+    padding: $spacing-unit 0;
+}
+
+.footer-heading {
+    font-size: 18px;
+    margin-bottom: $spacing-unit / 2;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+.col-wrapper {
+    font-size: 15px;
+    margin-left: -$spacing-unit / 2;
+
+    @extend %clearfix;
+}
+
+.col {
+    float: left;
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+}
+
+.col-1 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.col-2 {
+    width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+    width:         calc(55% - (#{$spacing-unit} / 2));
+}
+
+
+@include media-query($on-laptop) {
+    .col-1,
+    .col-2 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+
+}
+
+@include media-query($on-palm) {
+    .col {
+        float: none;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
+footer {
+    border-top: 1px solid $grey-color-light;
+    font-size: 16px;
+    color: $grey-color;
+    @include media-query($on-palm) {
+    font-size: 12px;
+    }
+
+}
+
+.scrollbar {
+    overflow-y: scroll;
+    height: 125px;
+
+}
+
+/* 滚动条 */
+::-webkit-scrollbar-thumb:horizontal { /*水平滚动条的样式*/
+    width: 4px;
+    background-color: #CCCCCC;
+    -webkit-border-radius: 6px;
+}
+::-webkit-scrollbar-track-piece {
+    background-color: #fff; /*滚动条的背景颜色*/
+    -webkit-border-radius: 0; /*滚动条的圆角宽度*/
+}
+::-webkit-scrollbar {
+    width: 14px; /*滚动条的宽度*/
+    height: 8px; /*滚动条的高度*/
+}
+::-webkit-scrollbar-thumb:vertical { /*垂直滚动条的样式*/
+    height: 50px;
+    background-color: #BBBBBB;
+    -webkit-border-radius: 4px;
+    outline: 2px solid #fff;
+    outline-offset: -2px;
+    border: 2px solid #fff;
+}
+::-webkit-scrollbar-thumb:hover { /*滚动条的hover样式*/
+    height: 50px;
+    background-color: $grey-color;
+    -webkit-border-radius: 4px;
+}
+
+.scrollbar-news {
+    overflow-y: scroll;
+    height: 150px;
+
+}
+
+/* 滚动条 */
+.scrollbar-news::-webkit-scrollbar-thumb:horizontal { /*水平滚动条的样式*/
+    width: 4px;
+    background-color: $background-color;
+    -webkit-border-radius: 6px;
+}
+.scrollbar-news::-webkit-scrollbar-track-piece {
+    background-color: $background-color; /*滚动条的背景颜色*/
+    -webkit-border-radius: 0; /*滚动条的圆角宽度*/
+}
+.scrollbar-news::-webkit-scrollbar {
+    width: 10px; /*滚动条的宽度*/
+    height: 8px; /*滚动条的高度*/
+}
+.scrollbar-news::-webkit-scrollbar-thumb:vertical { /*垂直滚动条的样式*/
+    height: 50px;
+    background-color: #BBBBBB;
+    -webkit-border-radius: 4px;
+    outline: 2px solid $background-color;
+    outline-offset: -2px;
+    border: 2px solid #fff;
+}
+.scrollbar-news::-webkit-scrollbar-thumb:hover { /*滚动条的hover样式*/
+    height: 50px;
+    background-color: $grey-color;
+    -webkit-border-radius: 4px;
+}
+
+/**
+ * Page content
+ */
+.page-content {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: $spacing-unit 0;
+
+}
+
+.page-heading {
+    font-size: 20px;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+h1 /* .post-title */ {
+/*    font-size: 42px; */
+    margin-top: 10px;
+    letter-spacing: -1px;
+    line-height: 1;
+		font-family: 'Titillium Web', sans-serif;
+		color: $blue-color-dark;
+
+    @include media-query($on-laptop) {
+/*        font-size: 36px; */
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+		font-family: 'Titillium Web', sans-serif;
+	    font-weight: 500;
+/*        font-size: 32px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 28px; */
+        }
+    }
+
+    h3 {
+		font-style: italic;
+        font-weight: 500;
+/*        font-size: 26px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 22px; */
+        }
+    }
+
+    h4 {
+/*       font-size: 20px; */
+
+        @include media-query($on-laptop) {
+/*            font-size: 18px; */
+        }
+    }
+}
+
+.footnotes ol li {list-style-type:decimal;}
+.footnotes ol {font-size:.85em; color:#666666;}	
+	
+html {
+  overflow-y: scroll;
+}
+
+ul.listing {
+	list-style-type: none;
+	margin-left: 0px;
+}
+
+ul.listing li.listing-item {
+
+    color: #333;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-right: 10px;
+}
+
+ul.listing li.listing-seperator {
+	padding-top: 15px;
+	font-weight: bold;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.17em;
+}
+
+
+
+ul.listing li.listing-item time {
+
+	color: #333;
+	font-weight: 500;
+	text-transform: uppercase;
+	padding-right: 10px;
+}
+
+ul.listing li.listing-item a {
+	color: $blue-color-dark;
+	font-weight: 400;
+	font-family: 'Titillium Web', sans-serif;
+}
+
