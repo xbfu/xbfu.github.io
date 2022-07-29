@@ -10,7 +10,6 @@ subtitle: Publications - Xingbo Fu
 	<li>
 		<b>Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications</b><br>
 		<i><b>Xingbo Fu</b>, Binchi Zhang, Yushun Dong, Chen Chen, Jundong Li</i><br>
-		Chinese Control Conference (CCC 2020), Shenyang, China.<br>
 		<a href="Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.pdf"><div class="paper">PDF</div></a>
 	</li>
 	<li>
