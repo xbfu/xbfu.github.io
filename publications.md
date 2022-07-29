@@ -15,7 +15,6 @@ subtitle: Publications - Xingbo Fu
 	<li>
 		<b>When Do Drivers Concentrate? Attention-based Driver Behavior Modeling with Deep Reinforcement Learning</b><br>
 		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu</i><br>
-		Preprint<br>
 		<a href="paper6.pdf"><div class="paper">PDF</div></a>
         <a href="https://github.com/xbfu/ATD3"><div class="code">Code</div></a>
 	</li>
