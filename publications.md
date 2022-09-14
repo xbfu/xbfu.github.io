@@ -10,7 +10,9 @@ subtitle: Publications - Xingbo Fu
 	<li>
 		<b>Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications</b><br>
 		<i><b>Xingbo Fu</b>, Binchi Zhang, Yushun Dong, Chen Chen, Jundong Li</i><br>
-		<a href="Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.pdf"><div class="paper">PDF</div></a>
+		A short version has been accepted to International Workshop on Federated Learning with Graph Data in Conjunction with CIKM 2022
+		<a href="Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.pdf"><div class="paper">Long version</div></a>
+		<a href="FedGraph.pdf"><div class="paper">Short version</div></a>
 	</li>
 	<li>
 		<b>When Do Drivers Concentrate? Attention-based Driver Behavior Modeling with Deep Reinforcement Learning</b><br>
