@@ -8,17 +8,22 @@ subtitle: Publications - Xingbo Fu
 <h2>Preprint</h2>
 <ul>
 	<li>
-		<b>Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications</b><br>
-		<i><b>Xingbo Fu</b>, Binchi Zhang, Yushun Dong, Chen Chen, Jundong Li</i><br>
-		A short version has been accepted to International Workshop on Federated Learning with Graph Data in Conjunction with CIKM 2022<br>
-		<a href="Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications.pdf"><div class="paper">Long version</div></a>
-		<a href="FedGraph.pdf"><div class="paper">Short version</div></a>
-	</li>
-	<li>
 		<b>When Do Drivers Concentrate? Attention-based Driver Behavior Modeling with Deep Reinforcement Learning</b><br>
 		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu</i><br>
 		<a href="paper6.pdf"><div class="paper">PDF</div></a>
         <a href="https://github.com/xbfu/ATD3"><div class="code">Code</div></a>
+	</li>
+</ul>
+
+<h2>2022</h2>
+<ul>
+	<li>
+		<b>Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications</b><br>
+		<i><b>Xingbo Fu</b>, Binchi Zhang, Yushun Dong, Chen Chen, Jundong Li</i><br>
+		Accepted by ACM SIGKDD Explorations Newsletter<br>
+		A short version has been accepted to International Workshop on Federated Learning with Graph Data in Conjunction with CIKM 2022<br>
+		<a href="Federated Graph Machine Learning.pdf"><div class="paper">PDF</div></a>
+		<a href="FGML.pdf"><div class="paper">Short version</div></a>
 	</li>
 </ul>
 
