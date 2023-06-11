@@ -9,7 +9,7 @@ subtitle: Publications - Xingbo Fu
 <ul>
 	<li>
 		<b>Federated Few-Shot Learning</b><br>
-		<i><Song Wang, b>Xingbo Fu</b>, Kaize Ding, Chen Chen, Huiyuan Chen, Jundong Li</i><br>
+		<i>Song Wang, <b>Xingbo Fu</b>, Kaize Ding, Chen Chen, Huiyuan Chen, Jundong Li</i><br>
 		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023)<br>
 	</li>
 	<li>
