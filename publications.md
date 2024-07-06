@@ -5,6 +5,21 @@ permalink: /publications/
 subtitle: Publications - Xingbo Fu
 ---
 
+<h2>2024</h2>
+<ul>
+	<li>
+		<b>Federated Graph Learning with Structure Proxy Alignment</b><br>
+		<i><b>Xingbo Fu</b>, Zihan Chen, Binchi Zhang, Chen Chen, Jundong Li</i><br>
+		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024)<br>
+	</li>
+	<li>
+		<b>Safety in Graph Machine Learning: Threats and Safeguards</b><br>
+		<i>Song Wang, Yushun Dong, Binchi Zhang, Zihan Chen, <b>Xingbo Fu</b>, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li</i><br>
+		Preprint<br>
+	</li>
+	
+</ul>
+
 <h2>2023</h2>
 <ul>
 	<li>
