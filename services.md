@@ -11,7 +11,7 @@ subtitle: Services - Xingbo Fu
 	<li>The Web Conference (WWW)</li>
 	<li>Neural Information Processing Systems (NeurIPS)</li>
 	<li>AAAI Conference on Artificial Intelligence</li>
-	<li>Neural Information Processing Systems (NeurIPS)</li>
+	<li>ACM International Conference on Information and Knowledge Management (CIKM)</li>
 </ul>
 
 <h2>Journal Reviewer</h2>
