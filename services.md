@@ -19,8 +19,8 @@ subtitle: Services - Xingbo Fu
 <ul>
 	<li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
 	<li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
-  <li>IEEE/ACM Transactions on Networking (TON)</li>
-  <li>IEEE Transactions on Parallel and Distributed Systems</li>
+  	<li>IEEE/ACM Transactions on Networking (TON)</li>
+  	<li>IEEE Transactions on Parallel and Distributed Systems (TPDS)</li>
 	<li>IEEE Transactions on Big Data (TBD)</li>
 	<li>ACM Transactions on Intelligent Systems and Technology (TIST)</li>
 	<li>Neurocomputing (NEUCOM)</li>
