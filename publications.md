@@ -5,12 +5,27 @@ permalink: /publications/
 subtitle: Publications - Xingbo Fu
 ---
 
+<h2>2025</h2>
+<ul>
+	<li>
+		<b>Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning</b><br>
+		<i><b>Xingbo Fu</b>, Zihan Chen, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li</i><br>
+		AAAI Conference on Artificial Intelligence (AAAI 2025)<br>
+	</li>
+	
+</ul>
+
 <h2>2024</h2>
 <ul>
 	<li>
 		<b>Federated Graph Learning with Structure Proxy Alignment</b><br>
 		<i><b>Xingbo Fu</b>, Zihan Chen, Binchi Zhang, Chen Chen, Jundong Li</i><br>
 		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024)<br>
+	</li>
+	<li>
+		<b>Federated Graph Learning with Graphless Clients</b><br>
+		<i><b>Xingbo Fu</b>, Song Wang, Yushun Dong, Binchi Zhang, Chen Chen, Jundong Li</i><br>
+		Transactions on Machine Learning Research (TMLR)<br>
 	</li>
 	<li>
 		<b>Safety in Graph Machine Learning: Threats and Safeguards</b><br>
