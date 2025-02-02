@@ -11,7 +11,8 @@ subtitle: Services - Xingbo Fu
 	<li>The Web Conference (WWW)</li>
 	<li>Neural Information Processing Systems (NeurIPS)</li>
 	<li>International Conference on Learning Representations (ICLR)</li>
-	<li>AAAI Conference on Artificial Intelligence</li>
+	<li>Annual AAAI Conference on Artificial Intelligence (AAAI)</li>
+	<li>International Joint Conference on Artificial Intelligence (IJCAI)</li>
 	<li>ACM International Conference on Information and Knowledge Management (CIKM)</li>
 </ul>
 
