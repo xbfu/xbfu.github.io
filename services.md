@@ -24,6 +24,7 @@ subtitle: Services - Xingbo Fu
   	<li>IEEE/ACM Transactions on Networking (TON)</li>
   	<li>IEEE Transactions on Parallel and Distributed Systems (TPDS)</li>
 	<li>IEEE Transactions on Big Data (TBD)</li>
+	<li>Information Sciences</li>
 	<li>ACM Transactions on Intelligent Systems and Technology (TIST)</li>
 	<li>Neurocomputing (NEUCOM)</li>
   <li>Big Data Research (BDR)</li>
