@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutorials
-permalink: /slides/
+permalink: /tutorials/
 subtitle: Tutorials - Xingbo Fu
 ---
 
