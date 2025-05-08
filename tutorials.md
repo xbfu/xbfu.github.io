@@ -11,6 +11,7 @@ subtitle: Tutorials - Xingbo Fu
 		<b>Federated Graph Learning: Recent Advances and Future Directions</b><br>
 		<i><b>Xingbo Fu</b>, Zihan Chen, Binchi Zhang, Chen Chen, Jundong Li</i><br>
 		SIAM International Conference on Data Mining (SDM 2025)<br>
+        	<a href="STAN.pdf"><div class="slides">Slides</div></a>
 	</li>
 	<li>
 		<b>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</b><br>
