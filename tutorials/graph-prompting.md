@@ -10,7 +10,7 @@ permalink: /tutorials/graph-prompting
 in *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)* 
 <br>
 
-<div style="text-align: center;">
+<div class="wrapper" style="text-align: center;">
 <img src="https://kdd2025.kdd.org/wp-content/uploads/2024/12/logo_to_KDD-2.png" style="width: 51rem; padding: 0.00025rem; border: 0.001px solid #dee2e6; border-radius: 0.0025em; background-size: 0.002px; background-color: #fff"/>
 </div>
 <br>
