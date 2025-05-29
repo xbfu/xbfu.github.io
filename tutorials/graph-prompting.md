@@ -64,11 +64,11 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <li><a href="https://www.xingbofu.com/">Xingbo Fu</a>, PhD student, University of Virginia</li>
 <li><a href="https://zehong-wang.github.io/">Zehong Wang</a>, PhD student, University of Notre Dame</li>
-<li>Zihan Chen, PhD student, University of Virginia</li>
-<li>Jiazheng Li, PhD student, University of Connecticut</li>
-<li>Yaochen Zhu, PhD student, University of Virginia</li>
-<li>Zhenyu Lei, PhD student, University of Virginia</li>
-<li>Cong Shen, Associate Professor, University of Virginia</li>
-<li>Yanfang Ye, Galassi Family Collegiate Professor, University of Notre Dame</li>
-<li>Chuxu Zhang, Associate Professor, University of Connecticut</li>
-<li>Jundong Li, Assistant Professor, University of Virginia</li>
+<li><a href="https://chen-1031.github.io/">Zihan Chen</a>, PhD student, University of Virginia</li>
+<li><a href="https://www.linkedin.com/in/jiazheng-li-730169259/">Jiazheng Li</a>, PhD student, University of Connecticut</li>
+<li><a href="https://www.ychzhu.com/">Yaochen Zhu</a>, PhD student, University of Virginia</li>
+<li><a href="https://lzyfischer.github.io/">Zhenyu Lei</a>, PhD student, University of Virginia</li>
+<li><a href="https://cshen317.github.io/">Cong Shen</a>, Associate Professor, University of Virginia</li>
+<li><a href="http://yes-lab.org/">Yanfang Ye</a>, Galassi Family Collegiate Professor, University of Notre Dame</li>
+<li><a href="https://chuxuzhang.github.io/">Chuxu Zhang</a>, Associate Professor, University of Connecticut</li>
+<li><a href="https://jundongli.github.io/">Jundong Li</a>, Assistant Professor, University of Virginia</li>
