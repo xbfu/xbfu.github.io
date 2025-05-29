@@ -30,15 +30,19 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 
 <div style="display: inline-block; width: 33%;">
-<img src="Xingbo.png"  align="center" style="width: 11rem">
+  <div  align="center"> 
+    <img src="Xingbo.png"  style="width: 11rem">
+  </div>
   <br>
   <center>
   Xingbo Fu, University of Virginia
   </center>
 </div>
 
-<div style="display: inline-block; width: 33%;">
-<img src="Zehong.jpg"  align="center" style="width: 11rem">
+<div style="display: inline-block; width: 33%;">  
+  <div  align="center"> 
+    <img src="Zehong.png"  style="width: 11rem">
+  </div>
   <br>
   <center>
   Zehong Wang, University of Notre Dame
@@ -46,12 +50,29 @@ This tutorial will conver recent advancements in graph prompting including</p>
 </div>
 
 <div style="display: inline-block; width: 33%;">
-<img src="Xingbo.png"  align="center" style="width: 11rem">
+  <div  align="center"> 
+    <img src="Xingbo.png"  style="width: 11rem">
+  </div>
   <br>
   <center>
   TBD
   </center>
 </div>
+
+<br>
+<br>
+<br>
+
+<div style="display: inline-block; width: 33%;">
+  {% include image.html url="Xingbo.png" caption="Xingbo Fu, University of Virginia" width=11rem align="center" %}
+</div>
+<div style="display: inline-block; width: 33%;">
+  {% include image.html url="Xingbo.png" caption="Xingbo Fu, University of Virginia" width=11rem align="center" %}
+</div>
+<div style="display: inline-block; width: 33%;">
+  {% include image.html url="Xingbo.png" caption="Xingbo Fu, University of Virginia" width=11rem align="center" %}
+</div>
+
 
 ## Organizers
 
