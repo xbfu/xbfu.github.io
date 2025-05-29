@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorials
+title: Tutorial
 permalink: /tutorials/graph-prompting
 ---
 
