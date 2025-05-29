@@ -7,8 +7,9 @@ permalink: /tutorials/graph-prompting
 
 ## Graph Prompting for Graph Learning Models: Recent Advances and Future Directions
 
-in *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*
-<img src="../images/profile.jpg" style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff"/>
+in *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)* 
+<br>
+<img src="https://kdd2025.kdd.org/wp-content/uploads/2025/01/KDD25-Hero1-100.jpg" style="width: 21rem; padding: 0.25rem; border: 0.001px solid #dee2e6; border-radius: 0.0025em; background-size: 0.002px; background-color: #fff"/>
 
 <br>
 
