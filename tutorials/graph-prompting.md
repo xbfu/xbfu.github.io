@@ -27,9 +27,9 @@ This tutorial will conver recent advancements in graph prompting including
 ## Presenters
 
 <p align="center">
-  <img src="../images/profile.jpg" alt="Image 1" style="width:30%; margin-right:5%;">
-  <img src="../images/profile.jpg" alt="Image 2" style="width:30%; margin-right:5%;">
-  <img src="../images/profile.jpg" alt="Image 2" style="width:30%;">
+  <img src="../images/profile.jpg" alt="Image 1" style="width:28%; margin-right:8%;">
+  <img src="../images/profile.jpg" alt="Image 2" style="width:28%; margin-right:8%;">
+  <img src="../images/profile.jpg" alt="Image 2" style="width:28%;">
 </p>
 
 ## Organizers
