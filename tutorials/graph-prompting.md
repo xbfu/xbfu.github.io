@@ -29,7 +29,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 <br>
 
 
-<div style="display: inline-block; width: 33%;">
+<div style="display: inline-block; width: 31%;">
   <div  align="center"> 
     <img src="Xingbo.png"  style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
@@ -38,7 +38,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
   </center>
 </div>
 
-<div style="display: inline-block; width: 33%;">  
+<div style="display: inline-block; width: 31%;">  
   <div  align="center"> 
     <img src="Zehong.jpg"  style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
@@ -47,7 +47,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
   </center>
 </div>
 
-<div style="display: inline-block; width: 33%;">
+<div style="display: inline-block; width: 31%;">
   <div  align="center"> 
     <img src="TBD.png"  style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
