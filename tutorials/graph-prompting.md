@@ -5,11 +5,13 @@ permalink: /tutorials/graph-prompting
 ---
 
 
-### Graph Prompting for Graph Learning Models: Recent Advances and Future Directions
+## Graph Prompting for Graph Learning Models: Recent Advances and Future Directions
 
-in <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)</i>
+in *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*
 
-#### Abstract
+<br>
+
+**Abstract**
 
 Graph learning models have demonstrated great prowess in learning expressive representations from large-scale graph data in a wide variety of real-world scenarios.
 As a prevalent strategy for training powerful graph learning models, the "pre-training, adaptation" scheme first pre-trains graph learning models on unlabeled graph data in a self-supervised manner and then adapts them to specific downstream tasks.
