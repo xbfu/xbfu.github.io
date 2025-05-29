@@ -34,7 +34,8 @@ This tutorial will conver recent advancements in graph prompting including</p>
     <img src="Xingbo.png"  style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
-  Xingbo Fu, University of Virginia
+  Xingbo Fu<br>
+  University of Virginia
   </center>
 </div>
 
@@ -43,7 +44,8 @@ This tutorial will conver recent advancements in graph prompting including</p>
     <img src="Zehong.jpg"  style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
-  Zehong Wang, University of Notre Dame
+  Zehong Wang<br>
+    University of Notre Dame
   </center>
 </div>
 
