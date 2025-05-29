@@ -11,6 +11,7 @@ subtitle: Tutorials - Xingbo Fu
 		<b>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</b><br>
 		<i><b>Xingbo Fu</b>, Zehong Wang, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li</i><br>
 		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)<br>
+		<a href="{{ site.baseurl }}/tutorials/graph-prompting/"><div class="code">Website</div></a>
 	</li>
 	<li>
 		<b>Federated Graph Learning: Recent Advances and Future Directions</b><br>
