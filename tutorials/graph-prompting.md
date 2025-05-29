@@ -54,8 +54,8 @@ This tutorial will conver recent advancements in graph prompting including</p>
     <img src="unknown.png"  style="width: 8rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
-  Name<br>
-  University
+  TBD<br>
+  Institution
   </center>
 </div>
 
