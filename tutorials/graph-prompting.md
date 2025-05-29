@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KDD 2025 Tutorial
-permalink: /tutorials/graph-prompting
+permalink: /tutorials/kdd25-graph-prompting
 subtitle: Tutorials - Xingbo Fu
 ---
 
