@@ -41,7 +41,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 33%;">  
   <div  align="center"> 
-    <img src="Zehong.png"  style="width: 11rem">
+    <img src="Zehong.jpg"  style="width: 11rem">
   </div>
   <br>
   <center>
