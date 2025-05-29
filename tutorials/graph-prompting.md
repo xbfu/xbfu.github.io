@@ -31,13 +31,13 @@ Finally, we discuss several open challenges in existing studies with promising f
 
 ### Organizers
 
-	<li>Xingbo Fu, PhD student, University of Virginia</li>
-	<li>Zehong Wang, PhD student, University of Notre Dame</li>
-  	<li>Zihan Chen, PhD student, University of Virginia</li>
-  	<li>Jiazheng Li, PhD student, University of Connecticut</li>
-	<li>Yaochen Zhu, PhD student, University of Virginia</li>
-	<li>Zhenyu Lei, PhD student, University of Virginia</li>
-	<li>Cong Shen, Associate Professor, University of Virginia</li>
-	<li>Yanfang Ye, Galassi Family Collegiate Professor, University of Notre Dame</li>
-  <li>Chuxu Zhang, Associate Professor, University of Connecticut</li>
-  <li>Jundong Li, Assistant Professor, University of Virginia</li>
+<li>Xingbo Fu, PhD student, University of Virginia</li>
+<li>Zehong Wang, PhD student, University of Notre Dame</li>
+<li>Zihan Chen, PhD student, University of Virginia</li>
+<li>Jiazheng Li, PhD student, University of Connecticut</li>
+<li>Yaochen Zhu, PhD student, University of Virginia</li>
+<li>Zhenyu Lei, PhD student, University of Virginia</li>
+<li>Cong Shen, Associate Professor, University of Virginia</li>
+<li>Yanfang Ye, Galassi Family Collegiate Professor, University of Notre Dame</li>
+<li>Chuxu Zhang, Associate Professor, University of Connecticut</li>
+<li>Jundong Li, Assistant Professor, University of Virginia</li>
