@@ -31,7 +31,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 31%;">
   <div  align="center"> 
-    <img src="Xingbo.png"  style="width: 8rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
+    <img src="Xingbo.png"  style="width: 7rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
   <a href="https://www.xingbofu.com/">Xingbo Fu</a><br>
@@ -41,7 +41,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 31%;">  
   <div  align="center"> 
-    <img src="Zehong.jpg"  style="width: 8rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
+    <img src="Zehong.jpg"  style="width: 7rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
   <a href="https://zehong-wang.github.io/">Zehong Wang</a><br>
@@ -51,7 +51,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 31%;">
   <div  align="center"> 
-    <img src="unknown.png"  style="width: 8rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
+    <img src="unknown.png"  style="width: 7rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
   TBD<br>
