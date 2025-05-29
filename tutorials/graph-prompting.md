@@ -14,11 +14,11 @@ subtitle: Tutorials - Xingbo Fu
 
 
 ## Abstract
-
+<p style="text-align: justify">
 Graph learning models have demonstrated great prowess in learning expressive representations from large-scale graph data in a wide variety of real-world scenarios.
 As a prevalent strategy for training powerful graph learning models, the "pre-training, adaptation" scheme first pre-trains graph learning models on unlabeled graph data in a self-supervised manner and then adapts them to specific downstream tasks.
 During the adaptation phase, graph prompting emerges as a promising approach that learns trainable prompts while keeping the pre-trained graph learning models unchanged.
-This tutorial will conver recent advancements in graph prompting including
+This tutorial will conver recent advancements in graph prompting including</p>
 <li>Representative graph pre-training methods that serve as the foundation step of graph prompting</li>
 <li>Minstream techniques in graph prompting and elaborate on how they design learnable prompts for graph prompting</li>
 <li>Real-world applications of graph prompting from different domains</li>
@@ -30,20 +30,20 @@ This tutorial will conver recent advancements in graph prompting including
 
 
 <div style="display: inline-block; width: 30%;">
-<img src="../images/profile.jpg" alt="Image 1">
-  <br>Xingbo Fu, University of Virginia
+<img src="../images/profile.jpg" style="height: 11rem">
+  <br>
+  <center>
+  Xingbo Fu, University of Virginia
+  </center>
 </div>
 
 <div style="display: inline-block; width: 30%;">
-<img src="../images/profile.jpg" alt="Image 1">
-  <br>Xingbo Fu, University of Virginia
+<img src="../images/profile.jpg" style="height: 11rem">
+  <br>
+  <center>
+  Xingbo Fu, University of Virginia
+  </center>
 </div>
-
-<p align="center">
-  <img src="../images/profile.jpg" alt="Image 1" style="width:30%; margin-right:3%;"><br>Xingbo Fu, University of Virginia
-  <img src="../images/profile.jpg" alt="Image 2" style="width:30%; margin-right:3%;"><br>Zehong Wang, University of Notre Dame
-  <img src="../images/profile.jpg" alt="Image 2" style="width:30%;"><br>TBD
-</p>
 
 ## Organizers
 
