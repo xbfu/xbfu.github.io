@@ -29,24 +29,24 @@ This tutorial will conver recent advancements in graph prompting including</p>
 <br>
 
 
-<div style="display: inline-block; width: 30%;">
-<img src="Xingbo.jpg" style="weight: 11rem">
+<div style="display: inline-block; width: 33%;">
+<img src="Xingbo.jpg" style="width: 11rem">
   <br>
   <center>
   Xingbo Fu, University of Virginia
   </center>
 </div>
 
-<div style="display: inline-block; width: 30%;">
-<img src="Zehong.jpg" style="weight: 11rem">
+<div style="display: inline-block; width: 33%;">
+<img src="Zehong.jpg" style="width: 11rem">
   <br>
   <center>
   Zehong Wang, University of Notre Dame
   </center>
 </div>
 
-<div style="display: inline-block; width: 30%;">
-<img src="Xingbo.jpg" style="weight: 11rem">
+<div style="display: inline-block; width: 33%;">
+<img src="Xingbo.jpg" style="width: 11rem">
   <br>
   <center>
   TBD
