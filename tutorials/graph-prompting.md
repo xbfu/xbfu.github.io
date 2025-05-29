@@ -10,8 +10,6 @@ subtitle: Tutorials - Xingbo Fu
 <br>
 <img src="https://kdd2025.kdd.org/wp-content/uploads/2024/12/logo_to_KDD-2.png" style="padding: 0.00025rem; border: 0.001px solid #dee2e6; border-radius: 0.0025em; background-size: 0.002px; background-color: #fff"/>
 
-in *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)* 
-<br>
 <br>
 
 
@@ -26,7 +24,7 @@ Next, we review mainstream techniques in graph prompting and elaborate on how th
 Furthermore, we summarize the real-world applications of graph prompting from different domains.
 Finally, we discuss several open challenges in existing studies with promising future directions in this field.
 
-### outline
+### Outline
 
 
 ### Organizers
