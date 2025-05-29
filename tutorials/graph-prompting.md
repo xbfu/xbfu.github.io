@@ -31,9 +31,8 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 33%;">
   <div  align="center"> 
-    <img src="Xingbo.png"  style="width: 11rem">
+    <img src="Xingbo.png"  style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
-  <br>
   <center>
   Xingbo Fu, University of Virginia
   </center>
@@ -41,9 +40,8 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 33%;">  
   <div  align="center"> 
-    <img src="Zehong.jpg"  style="width: 11rem">
+    <img src="Zehong.jpg"  style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
-  <br>
   <center>
   Zehong Wang, University of Notre Dame
   </center>
@@ -51,26 +49,11 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 33%;">
   <div  align="center"> 
-    <img src="Xingbo.png"  style="width: 11rem">
+    <img src="TBD.png"  style="width: 11rem; padding: 0.25rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
-  <br>
   <center>
   TBD
   </center>
-</div>
-
-<br>
-<br>
-<br>
-
-<div style="display: inline-block; width: 33%;">
-  {% include image.html url="Xingbo.png" caption="Xingbo Fu, University of Virginia" width=11rem align="center" %}
-</div>
-<div style="display: inline-block; width: 33%;">
-  {% include image.html url="Xingbo.png" caption="Xingbo Fu, University of Virginia" width=11rem align="center" %}
-</div>
-<div style="display: inline-block; width: 33%;">
-  {% include image.html url="Xingbo.png" caption="Xingbo Fu, University of Virginia" width=11rem align="center" %}
 </div>
 
 
