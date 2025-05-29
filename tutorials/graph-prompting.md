@@ -1,11 +1,5 @@
 ---
 layout: page
-title: Travel
-permalink: /miscellany/travel/
----
-
----
-layout: page
 title: Tutorials
 permalink: /tutorials/graph-prompting
 ---
