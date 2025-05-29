@@ -34,7 +34,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
     <img src="Xingbo.png"  style="width: 8rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
-  Xingbo Fu<br>
+  <a href="https://www.xingbofu.com/">Xingbo Fu</a><br>
   University of Virginia
   </center>
 </div>
@@ -44,7 +44,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
     <img src="Zehong.jpg"  style="width: 8rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
-  Zehong Wang<br>
+  <a href="https://zehong-wang.github.io/">Zehong Wang</a><br>
     University of Notre Dame
   </center>
 </div>
@@ -62,8 +62,8 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 ## Organizers
 
-<li>Xingbo Fu, PhD student, University of Virginia</li>
-<li>Zehong Wang, PhD student, University of Notre Dame</li>
+<li><a href="https://www.xingbofu.com/">Xingbo Fu</a>, PhD student, University of Virginia</li>
+<li><a href="https://zehong-wang.github.io/">Zehong Wang</a>, PhD student, University of Notre Dame</li>
 <li>Zihan Chen, PhD student, University of Virginia</li>
 <li>Jiazheng Li, PhD student, University of Connecticut</li>
 <li>Yaochen Zhu, PhD student, University of Virginia</li>
