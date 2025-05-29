@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tutorial
+title: Graph Prompting for Graph Learning Models: Recent Advances and Future Directions
 permalink: /tutorials/graph-prompting
 ---
 
