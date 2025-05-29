@@ -15,7 +15,7 @@ in *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*
 <br>
 
 
-**Abstract**
+### Abstract
 
 Graph learning models have demonstrated great prowess in learning expressive representations from large-scale graph data in a wide variety of real-world scenarios.
 As a prevalent strategy for training powerful graph learning models, the "pre-training, adaptation" scheme first pre-trains graph learning models on unlabeled graph data in a self-supervised manner and then adapts them to specific downstream tasks.
@@ -25,3 +25,19 @@ First, we introduce representative graph pre-training methods that serve as the 
 Next, we review mainstream techniques in graph prompting and elaborate on how they design learnable prompts for graph prompting.
 Furthermore, we summarize the real-world applications of graph prompting from different domains.
 Finally, we discuss several open challenges in existing studies with promising future directions in this field.
+
+### outline
+
+
+### Organizers
+
+	<li>Xingbo Fu, PhD student, University of Virginia</li>
+	<li>Zehong Wang, PhD student, University of Notre Dame</li>
+  	<li>Zihan Chen, PhD student, University of Virginia</li>
+  	<li>Jiazheng Li, PhD student, University of Connecticut</li>
+	<li>Yaochen Zhu, PhD student, University of Virginia</li>
+	<li>Zhenyu Lei, PhD student, University of Virginia</li>
+	<li>Cong Shen, Associate Professor, University of Virginia</li>
+	<li>Yanfang Ye, Galassi Family Collegiate Professor, University of Notre Dame</li>
+  <li>Chuxu Zhang, Associate Professor, University of Connecticut</li>
+  <li>Jundong Li, Assistant Professor, University of Virginia</li>
