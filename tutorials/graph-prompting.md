@@ -13,7 +13,7 @@ subtitle: Tutorials - Xingbo Fu
 <br>
 
 
-### Abstract
+## Abstract
 
 Graph learning models have demonstrated great prowess in learning expressive representations from large-scale graph data in a wide variety of real-world scenarios.
 As a prevalent strategy for training powerful graph learning models, the "pre-training, adaptation" scheme first pre-trains graph learning models on unlabeled graph data in a self-supervised manner and then adapts them to specific downstream tasks.
@@ -24,10 +24,14 @@ This tutorial will conver recent advancements in graph prompting including
 <li>Real-world applications of graph prompting from different domains</li>
 <li>Open challenges in existing studies with promising future directions in this field</li>
 
-### Outline
+## Presenters
 
+<p align="center">
+  <img src="../images/profile.jpg" alt="Image 1" style="width:49%; margin-right:1%;">
+  <img src="../images/profile.jpg" alt="Image 2" style="width:49%;">
+</p>
 
-### Organizers
+## Organizers
 
 <li>Xingbo Fu, PhD student, University of Virginia</li>
 <li>Zehong Wang, PhD student, University of Notre Dame</li>
