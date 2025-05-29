@@ -30,7 +30,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 
 <div style="display: inline-block; width: 33%;">
-<img src="Xingbo.png" style="width: 11rem">
+<img src="Xingbo.png"  align="center" style="width: 11rem">
   <br>
   <center>
   Xingbo Fu, University of Virginia
@@ -38,7 +38,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 </div>
 
 <div style="display: inline-block; width: 33%;">
-<img src="Zehong.jpg" style="width: 11rem">
+<img src="Zehong.jpg"  align="center" style="width: 11rem">
   <br>
   <center>
   Zehong Wang, University of Notre Dame
@@ -46,7 +46,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 </div>
 
 <div style="display: inline-block; width: 33%;">
-<img src="Xingbo.png" style="width: 11rem">
+<img src="Xingbo.png"  align="center" style="width: 11rem">
   <br>
   <center>
   TBD
