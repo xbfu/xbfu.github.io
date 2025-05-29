@@ -29,9 +29,9 @@ This tutorial will conver recent advancements in graph prompting including
 <br>
 
 <p align="center">
-  <img src="../images/profile.jpg" alt="Image 1" style="width:30%; margin-right:3%;">
-  <img src="../images/profile.jpg" alt="Image 2" style="width:30%; margin-right:3%;">
-  <img src="../images/profile.jpg" alt="Image 2" style="width:30%;">
+  <img src="../images/profile.jpg" alt="Image 1" style="width:30%; margin-right:3%;"><br>Xingbo Fu, University of Virginia
+  <img src="../images/profile.jpg" alt="Image 2" style="width:30%; margin-right:3%;"><br>Zehong Wang, University of Notre Dame
+  <img src="../images/profile.jpg" alt="Image 2" style="width:30%;"><br>TBD
 </p>
 
 ## Organizers
