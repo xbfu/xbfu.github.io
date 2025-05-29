@@ -7,7 +7,7 @@ permalink: /tutorials/graph-prompting
 
 ## Graph Prompting for Graph Learning Models: Recent Advances and Future Directions
 <div class="home" style="text-align: center;">
-<img src="https://kdd2025.kdd.org/wp-content/uploads/2024/12/logo_to_KDD-2.png" style="width: 51rem; padding: 0.00025rem; border: 0.001px solid #dee2e6; border-radius: 0.0025em; background-size: 0.002px; background-color: #fff"/>
+<img src="https://kdd2025.kdd.org/wp-content/uploads/2024/12/logo_to_KDD-2.png" style="padding: 0.00025rem; border: 0.001px solid #dee2e6; border-radius: 0.0025em; background-size: 0.002px; background-color: #fff"/>
 </div>
 <br>
 
