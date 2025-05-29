@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KDD 2025 Tutorial - Graph Prompting for Graph Learning Models: Recent Advances and Future Directions
+title: Tutorials
 permalink: /tutorials/graph-prompting
 ---
 
