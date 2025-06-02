@@ -8,7 +8,7 @@ subtitle: Services - Xingbo Fu
 <h2>Conference Program Committee</h2>
 <ul>
 	<li>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)</li>
-	<li>The Web Conference (WWW)</li>
+	<li>The ACM Web Conference (WWW)</li>
 	<li>Neural Information Processing Systems (NeurIPS)</li>
 	<li>International Conference on Learning Representations (ICLR)</li>
 	<li>International Conference on Machine Learning (ICML)</li>
