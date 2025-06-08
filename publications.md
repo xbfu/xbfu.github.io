@@ -97,8 +97,9 @@ subtitle: Publications - Xingbo Fu
 		<i><b>Xingbo Fu</b>, Binchi Zhang, Yushun Dong, Chen Chen, Jundong Li</i><br>
 		ACM SIGKDD Explorations Newsletter 2022 <br>
 		A short version has been accepted to International Workshop on Federated Learning with Graph Data in Conjunction with CIKM 2022<br>
-		<a href="Federated Graph Machine Learning.pdf"><div class="paper">PDF</div></a>
-		<a href="FGML.pdf"><div class="paper">Short version</div></a>
+        	<a href="https://dl.acm.org/doi/abs/10.1145/3575637.3575644"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/2207.11812"><div class="report">arXiv</div></a>
+        	<a href="FGML.pdf"><div class="paper">Short version</div></a>
 	</li>
 </ul>
 
