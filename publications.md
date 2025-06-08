@@ -8,6 +8,11 @@ subtitle: Publications - Xingbo Fu
 <h2>2025</h2>
 <ul>
 	<li>
+		<b>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</b><br>
+		<i><b>Xingbo Fu</b>, Zehong Wang, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li</i><br>
+		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025 Tutorial/Survey Track)<br>
+	</li>
+	<li>
 		<b>Edge Prompt Tuning for Graph Neural Networks</b><br>
 		<i><b>Xingbo Fu</b>, Yinhan He, Jundong Li</i><br>
 		International Conference on Learning Representations (ICLR 2025)<br>
