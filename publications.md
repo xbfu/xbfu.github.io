@@ -76,11 +76,16 @@ subtitle: Publications - Xingbo Fu
 		<b>Federated Few-Shot Learning</b><br>
 		<i>Song Wang, <b>Xingbo Fu</b>, Kaize Ding, Chen Chen, Huiyuan Chen, Jundong Li</i><br>
 		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023)<br>
+        	<a href="https://dl.acm.org/doi/abs/10.1145/3580305.3599347"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/2306.10234"><div class="report">arXiv</div></a>
+        	<a href="https://github.com/SongW-SW/F2L"><div class="code">Github</div></a>
 	</li>
 	<li>
 		<b>Spatial-Temporal Networks for Antibiogram Pattern Prediction</b><br>
 		<i><b>Xingbo Fu</b>, Chen Chen, Yushun Dong, Anil Vullikanti, Eili Klein, Gregory Madden, Jundong Li</i><br>
 		IEEE International Conference on Healthcare Informatics (IEEE ICHI 2023)<br>
+        	<a href="https://ieeexplore.ieee.org/abstract/document/10337221"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/2305.01761"><div class="report">arXiv</div></a>
 	</li>
 	
 </ul>
