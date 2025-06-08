@@ -124,22 +124,22 @@ subtitle: Publications - Xingbo Fu
 		<b>Spatiotemporal Attention Networks for Wind Power Forecasting</b><br>
 		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu, Xinyu Wei, Fangwei Duan</i><br>
 		International Conference on Data Mining Workshops (ICDM 2019 Workshops)<br>
-        	<a href="paper5.pdf"><div class="paper">PDF</div></a>
-        	<a href="STAN.pdf"><div class="slides">Slides</div></a>
-        	<a href="https://github.com/xbfu/Spatiotemporal-Attention-Networks"><div class="code">Code</div></a>
+        	<a href="https://ieeexplore.ieee.org/abstract/document/8955569"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/1909.07369"><div class="report">arXiv</div></a>
+        	<a href="https://github.com/xbfu/Spatiotemporal-Attention-Networks"><div class="code">Github</div></a>
 	</li>
 	<li>
 		<b>A Simulation Approach to Multi-station Solar Irradiance Data Considering Temporal Correlations</b><br>
 		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu, Ruanming Huang, Yichao Huang, Fei Fei</i><br>
 		International Conference on Innovative Smart Grid Technologies (ISGT Asia 2019)<br>
-        <a href="paper4.pdf"><div class="paper">PDF</div></a>
-        <a href="A Simulation Approach to Multi-station Solar Irradiance Data.pdf"><div class="slides">Slides</div></a>
+        	<a href="https://ieeexplore.ieee.org/abstract/document/8881133"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/1909.07765"><div class="report">arXiv</div></a>
 	</li>
 	<li>
 		<b>Wind Power Capacity Planning in Enterprise’s Microgrid based on Approximation Expectation of Operation Cost</b><br>
 		<i>Yuzhou Zhou, Qiaozhu Zhai, <b>Xingbo Fu</b>, Xiaohong Guan, Feng Gao, Jiang Wu, Zhanbo Xu</i><br>
 		IEEE Power & Energy Society General Meeting (PESGM 2019)<br>
-        <a href="paper3.pdf"><div class="paper">PDF</div></a>
+        	<a href="https://ieeexplore.ieee.org/abstract/document/8974101"><div class="paper">Paper</div></a>
 	</li>
 </ul>
 
@@ -149,12 +149,12 @@ subtitle: Publications - Xingbo Fu
 		<b>A Simulation Method of Solar Irradiance Data Based on Feature Clustering and MTPM</b><br>
 		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu, Xiaohong Guan, Xuan Li, Pengyuan Liu, Pai Li</i><br>
 		World Congress on Intelligent Control and Automation (WCICA 2018)<br>
-        <a href="paper2.pdf"><div class="paper">PDF</div></a>
+        	<a href="https://ieeexplore.ieee.org/abstract/document/8630379"><div class="paper">Paper</div></a>
 	</li>
 	<li>
 		<b>Hybrid Features based K-means Clustering Algorithm for use in Electricity Customer Load Pattern Analysis</b><br>
 		<i>Pengyuan Liu, Chenye Yang, Jiang Wu, <b>Xingbo Fu</b>, Ruanming Huang, Yichao Huang, Fei Fei</i><br>
 		Chinese Control Conference (CCC 2018)<br>
-        <a href="paper1.pdf"><div class="paper">PDF</div></a>
+        	<a href="https://ieeexplore.ieee.org/abstract/document/8483451"><div class="paper">Paper</div></a>
 	</li>
 </ul>
