@@ -18,7 +18,7 @@ subtitle: Publications - Xingbo Fu
 		International Conference on Learning Representations (ICLR 2025)<br>
         	<a href="https://openreview.net/forum?id=92vMaHotTM"><div class="paper">Paper</div></a>
         	<a href="https://arxiv.org/abs/2503.00750"><div class="report">arXiv</div></a>
-        	<a href="https://github.com/xbfu/EdgePrompt"><div class="code">Code</div></a>
+        	<a href="https://github.com/xbfu/EdgePrompt"><div class="code">Github</div></a>
 	</li>
 	<li>
 		<b>Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning</b><br>
@@ -26,13 +26,14 @@ subtitle: Publications - Xingbo Fu
 		AAAI Conference on Artificial Intelligence (AAAI 2025)<br>
         	<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33830"><div class="paper">Paper</div></a>
         	<a href="https://arxiv.org/abs/2412.19229"><div class="report">arXiv</div></a>
-        	<a href="https://github.com/xbfu/FedVN"><div class="code">Code</div></a>
+        	<a href="https://github.com/xbfu/FedVN"><div class="code">Github</div></a>
 	</li>
 	<li>
 		<b>Graph Foundation Models: A Comprehensive Survey</b><br>
 		<i>Zehong Wang, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, <b>Xingbo Fu</b>, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye</i><br>
 		Preprint<br>
 		<a href="https://arxiv.org/abs/2505.15116"><div class="report">arXiv</div></a>
+        	<a href="https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs"><div class="code">Github</div></a>
 	</li>
 	<li>
 		<b>A Survey of Scaling in Large Language Model Reasoning</b><br>
@@ -49,16 +50,22 @@ subtitle: Publications - Xingbo Fu
 		<b>Federated Graph Learning with Structure Proxy Alignment</b><br>
 		<i><b>Xingbo Fu</b>, Zihan Chen, Binchi Zhang, Chen Chen, Jundong Li</i><br>
 		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024)<br>
+        	<a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671717"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/2408.09393"><div class="report">arXiv</div></a>
+        	<a href="https://github.com/xbfu/FedSpray"><div class="code">Github</div></a>
 	</li>
 	<li>
 		<b>Federated Graph Learning with Graphless Clients</b><br>
 		<i><b>Xingbo Fu</b>, Song Wang, Yushun Dong, Binchi Zhang, Chen Chen, Jundong Li</i><br>
 		Transactions on Machine Learning Research (TMLR)<br>
+        	<a href="https://openreview.net/forum?id=mVAp0eDfyR"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/2411.08374"><div class="report">arXiv</div></a>
 	</li>
 	<li>
 		<b>Safety in Graph Machine Learning: Threats and Safeguards</b><br>
 		<i>Song Wang, Yushun Dong, Binchi Zhang, Zihan Chen, <b>Xingbo Fu</b>, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li</i><br>
 		Preprint<br>
+        	<a href="https://arxiv.org/abs/2405.11034"><div class="report">arXiv</div></a>
 	</li>
 	
 </ul>
