@@ -109,13 +109,12 @@ subtitle: Publications - Xingbo Fu
 		<b>Online Clustering based Fault Data Detection Method for Distributed PV Sites</b><br>
 		<i>Shujie Wang, Feng Gao, Jiang Wu , Chao Zheng, <b>Xingbo Fu</b>, Fangwei Duan</i><br>
 		Chinese Control Conference (CCC 2020)<br>
-		<a href="paper7.pdf"><div class="paper">PDF</div></a>
+        	<a href="https://ieeexplore.ieee.org/abstract/document/9188826"><div class="paper">Paper</div></a>
 	</li>
 	<li>
 		<b>When Do Drivers Concentrate? Attention-based Driver Behavior Modeling with Deep Reinforcement Learning</b><br>
 		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu</i><br>
-		<a href="paper6.pdf"><div class="paper">PDF</div></a>
-        <a href="https://github.com/xbfu/ATD3"><div class="code">Code</div></a>
+        	<a href="https://arxiv.org/abs/2002.11385"><div class="report">arXiv</div></a>
 	</li>
 </ul>
 
@@ -125,9 +124,9 @@ subtitle: Publications - Xingbo Fu
 		<b>Spatiotemporal Attention Networks for Wind Power Forecasting</b><br>
 		<i><b>Xingbo Fu</b>, Feng Gao, Jiang Wu, Xinyu Wei, Fangwei Duan</i><br>
 		International Conference on Data Mining Workshops (ICDM 2019 Workshops)<br>
-        <a href="paper5.pdf"><div class="paper">PDF</div></a>
-        <a href="STAN.pdf"><div class="slides">Slides</div></a>
-        <a href="https://github.com/xbfu/Spatiotemporal-Attention-Networks"><div class="code">Code</div></a>
+        	<a href="paper5.pdf"><div class="paper">PDF</div></a>
+        	<a href="STAN.pdf"><div class="slides">Slides</div></a>
+        	<a href="https://github.com/xbfu/Spatiotemporal-Attention-Networks"><div class="code">Code</div></a>
 	</li>
 	<li>
 		<b>A Simulation Approach to Multi-station Solar Irradiance Data Considering Temporal Correlations</b><br>
