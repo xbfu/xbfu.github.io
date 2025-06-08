@@ -24,11 +24,21 @@ subtitle: Publications - Xingbo Fu
 		<b>Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning</b><br>
 		<i><b>Xingbo Fu</b>, Zihan Chen, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li</i><br>
 		AAAI Conference on Artificial Intelligence (AAAI 2025)<br>
+        	<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33830"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/2412.19229"><div class="report">arXiv</div></a>
+        	<a href="https://github.com/xbfu/FedVN"><div class="code">Code</div></a>
+	</li>
+	<li>
+		<b>Graph Foundation Models: A Comprehensive Survey</b><br>
+		<i>Zehong Wang, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, <b>Xingbo Fu</b>, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye</i><br>
+		Preprint<br>
+		<a href="https://arxiv.org/abs/2505.15116"><div class="report">arXiv</div></a>
 	</li>
 	<li>
 		<b>A Survey of Scaling in Large Language Model Reasoning</b><br>
 		<i>Zihan Chen, Song Wang, Zhen Tan, <b>Xingbo Fu</b>, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li</i><br>
-		AAAI Conference on Artificial Intelligence (AAAI 2025)<br>
+		Preprint<br>
+		<a href="https://arxiv.org/abs/2504.02181"><div class="report">arXiv</div></a>
 	</li>
 	
 </ul>
