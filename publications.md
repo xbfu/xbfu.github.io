@@ -16,10 +16,18 @@ subtitle: Publications - Xingbo Fu
 		<b>Edge Prompt Tuning for Graph Neural Networks</b><br>
 		<i><b>Xingbo Fu</b>, Yinhan He, Jundong Li</i><br>
 		International Conference on Learning Representations (ICLR 2025)<br>
+        	<a href="https://openreview.net/forum?id=92vMaHotTM"><div class="paper">Paper</div></a>
+        	<a href="https://arxiv.org/abs/2503.00750"><div class="report">arXiv</div></a>
+        	<a href="https://github.com/xbfu/EdgePrompt"><div class="code">Code</div></a>
 	</li>
 	<li>
 		<b>Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning</b><br>
 		<i><b>Xingbo Fu</b>, Zihan Chen, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li</i><br>
+		AAAI Conference on Artificial Intelligence (AAAI 2025)<br>
+	</li>
+	<li>
+		<b>A Survey of Scaling in Large Language Model Reasoning</b><br>
+		<i>Zihan Chen, Song Wang, Zhen Tan, <b>Xingbo Fu</b>, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li</i><br>
 		AAAI Conference on Artificial Intelligence (AAAI 2025)<br>
 	</li>
 	
