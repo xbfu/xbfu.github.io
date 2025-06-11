@@ -11,6 +11,7 @@ subtitle: Publications - Xingbo Fu
 		<b>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</b><br>
 		<i><b>Xingbo Fu</b>, Zehong Wang, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li</i><br>
 		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025 Tutorial/Survey Track)<br>
+        	<a href="https://arxiv.org/abs/2506.08326"><div class="report">arXiv</div></a>
 	</li>
 	<li>
 		<b>Edge Prompt Tuning for Graph Neural Networks</b><br>
