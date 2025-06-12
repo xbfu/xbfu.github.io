@@ -11,7 +11,8 @@ subtitle: Tutorials - Xingbo Fu
 <img src="https://kdd2025.kdd.org/wp-content/uploads/2024/12/logo_to_KDD-2.png" style="padding: 0.00025rem; border: 0.001px solid #dee2e6; border-radius: 0.0025em; background-size: 0.002px; background-color: #fff"/>
 
 <br>
-
+<a href="https://arxiv.org/abs/2506.08326"><div class="report">Survey paper</div></a>
+<br>
 
 ## Abstract
 <p style="text-align: justify">
