@@ -12,12 +12,12 @@ subtitle: Tutorials - Xingbo Fu
 
 <br>
 
-<ul>
+
 	<li>
 		<a href="https://arxiv.org/abs/2506.08326"><div class="report">Survey paper</div></a>
 	</li>	
-</ul>
-<br>
+
+
 
 ## Abstract
 <p style="text-align: justify">
