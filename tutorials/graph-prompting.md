@@ -25,7 +25,7 @@ As a prevalent strategy for training powerful graph learning models, the "pre-tr
 During the adaptation phase, graph prompting emerges as a promising approach that learns trainable prompts while keeping the pre-trained graph learning models unchanged.
 This tutorial will conver recent advancements in graph prompting including</p>
 <li>Representative graph pre-training methods that serve as the foundation step of graph prompting</li>
-<li>Minstream techniques in graph prompting and elaborate on how they design learnable prompts for graph prompting</li>
+<li>Mainstream techniques in graph prompting and elaborate on how they design learnable prompts for graph prompting</li>
 <li>Real-world applications of graph prompting from different domains</li>
 <li>Open challenges in existing studies with promising future directions in this field</li>
 
