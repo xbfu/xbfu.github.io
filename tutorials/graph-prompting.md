@@ -12,8 +12,8 @@ subtitle: Tutorials - Xingbo Fu
 
 <br>
 
-<li><a>Time: Monday, August 4, 1-4pm</a></li>
-<li><a>Location: Toronto Convention Centre, Toronto, Canda</a></li>
+<li>Time: Monday, August 4, 1-4pm</li>
+<li>Location: Toronto Convention Centre, Toronto, Canda</li>
 <li><a href="https://arxiv.org/abs/2506.08326"><div class="report">Survey paper</div></a></li>
 
 <br>
