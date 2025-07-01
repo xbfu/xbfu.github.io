@@ -56,11 +56,11 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 31%;">
   <div  align="center"> 
-    <img src="unknown.png"  style="width: 7rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
+    <img src="jundong.png"  style="width: 7rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
-  TBD<br>
-  Institution
+  <a href="https://jundongli.github.io/">Jundong Li</a><br>
+  University of Virginia
   </center>
 </div>
 
@@ -76,4 +76,4 @@ This tutorial will conver recent advancements in graph prompting including</p>
 <li><a href="https://cshen317.github.io/">Cong Shen</a>, Associate Professor, University of Virginia</li>
 <li><a href="http://yes-lab.org/">Yanfang Ye</a>, Galassi Family Collegiate Professor, University of Notre Dame</li>
 <li><a href="https://chuxuzhang.github.io/">Chuxu Zhang</a>, Associate Professor, University of Connecticut</li>
-<li><a href="https://jundongli.github.io/">Jundong Li</a>, Assistant Professor, University of Virginia</li>
+<li><a href="https://jundongli.github.io/">Jundong Li</a>, Associate Professor, University of Virginia</li>
