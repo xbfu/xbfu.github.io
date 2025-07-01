@@ -56,7 +56,7 @@ This tutorial will conver recent advancements in graph prompting including</p>
 
 <div style="display: inline-block; width: 31%;">
   <div  align="center"> 
-    <img src="jundong.png"  style="width: 7rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
+    <img src="Jundong.png"  style="width: 7rem; padding: 0.2rem; border: 1px solid #dee2e6; border-radius: 0.25em; background-size: 2px; background-color: #fff">
   </div>
   <center>
   <a href="https://jundongli.github.io/">Jundong Li</a><br>
