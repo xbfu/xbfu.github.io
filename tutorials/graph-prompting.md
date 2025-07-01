@@ -12,6 +12,7 @@ subtitle: Tutorials - Xingbo Fu
 
 <br>
 
+<li><a>Time: Monday, August 4, 1-4pm/a></li>
 <li><a href="https://arxiv.org/abs/2506.08326"><div class="report">Survey paper</div></a></li>
 
 <br>
