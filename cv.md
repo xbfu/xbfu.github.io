@@ -5,5 +5,5 @@ permalink: /cv/
 subtitle: CV - Xingbo Fu
 ---
 
-You can find my CV [here](CV_Xingbo_Fu(202503).pdf) (Updated in March 2025).
+You can find my CV [here](CV_Xingbo_Fu(202506).pdf) (Updated in March 2025).
 
