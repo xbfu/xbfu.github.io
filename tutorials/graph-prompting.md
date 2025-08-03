@@ -14,7 +14,8 @@ subtitle: Tutorials - Xingbo Fu
 
 <li>Time: Monday, August 4, 1-4pm</li>
 <li>Location: Toronto Convention Centre, Toronto, Canda</li>
-<li><a href="https://arxiv.org/abs/2506.08326"><div class="report">Survey paper</div></a></li>
+<li><a href="https://arxiv.org/abs/2506.08326"><div class="paper">Survey paper</div></a></li>
+<li><a href="Graph Prompting (KDD tutorial).pdf"><div class="report">Slides</div></a></li>
 
 <br>
 
