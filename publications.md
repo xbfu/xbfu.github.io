@@ -30,6 +30,12 @@ subtitle: Publications - Xingbo Fu
         	<a href="https://github.com/xbfu/FedVN"><div class="code">Github</div></a>
 	</li>
 	<li>
+		<b>Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning</b><br>
+		<i>Yiming Xu, Xu Hua, Zhen Peng, Bin Shi, Jiarun Chen, Xingbo Fu, Song Wang, Bo Dong</i><br>
+		European Conference on Artificial Intelligence (ECAI 2025)<br>
+		<a href="https://arxiv.org/abs/2508.00513"><div class="report">arXiv</div></a>
+	</li>
+	<li>
 		<b>Graph Foundation Models: A Comprehensive Survey</b><br>
 		<i>Zehong Wang, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, <b>Xingbo Fu</b>, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye</i><br>
 		Preprint<br>
