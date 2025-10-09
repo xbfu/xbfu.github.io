@@ -8,9 +8,15 @@ subtitle: Publications - Xingbo Fu
 <h2>2025</h2>
 <ul>
 	<li>
+		<b>GraphTOP: Graph Topology-Oriented Prompting for Graph Neural Networks</b><br>
+		<i><b>Xingbo Fu</b>, Zhenyu Lei, Zihan Chen, Binchi Zhang, Chuxu Zhang, Jundong Li</i><br>
+		The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)<br>
+	</li>
+	<li>
 		<b>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</b><br>
 		<i><b>Xingbo Fu</b>, Zehong Wang, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li</i><br>
 		ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025 Tutorial/Survey Track)<br>
+        	<a href="https://dl.acm.org/doi/abs/10.1145/3711896.3736566"><div class="paper">Paper</div></a>
         	<a href="https://arxiv.org/abs/2506.08326"><div class="report">arXiv</div></a>
 	</li>
 	<li>
@@ -28,6 +34,11 @@ subtitle: Publications - Xingbo Fu
         	<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33830"><div class="paper">Paper</div></a>
         	<a href="https://arxiv.org/abs/2412.19229"><div class="report">arXiv</div></a>
         	<a href="https://github.com/xbfu/FedVN"><div class="code">Github</div></a>
+	</li>
+	<li>
+		<b>From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning</b><br>
+		<i>Zihan Chen, Song Wang, <b>Xingbo Fu</b>, Chengshuai Shi, Zhenyu Lei, Cong Shen, Jundong Li</i><br>
+		The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)<br>
 	</li>
 	<li>
 		<b>Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning</b><br>
