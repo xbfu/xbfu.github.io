@@ -15,12 +15,14 @@ subtitle: Services - Xingbo Fu
 	<li>Annual AAAI Conference on Artificial Intelligence (AAAI)</li>
 	<li>International Joint Conference on Artificial Intelligence (IJCAI)</li>
 	<li>ACM International Conference on Information and Knowledge Management (CIKM)</li>
+	<li>International Conference on Artificial Intelligence and Statistics (AISTATS)</li>
 </ul>
 
 <h2>Journal Reviewer</h2>
 <ul>
 	<li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
 	<li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+	<li>ACM Transactions on Knowledge Discovery from Data (TKDD)</li>
   	<li>IEEE/ACM Transactions on Networking (TON)</li>
   	<li>IEEE Transactions on Parallel and Distributed Systems (TPDS)</li>
 	<li>IEEE Transactions on Big Data (TBD)</li>
