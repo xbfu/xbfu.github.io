@@ -12,6 +12,7 @@ subtitle: Publications - Xingbo Fu
 		<i><b>Xingbo Fu</b>, Zhenyu Lei, Zihan Chen, Binchi Zhang, Chuxu Zhang, Jundong Li</i><br>
 		The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)<br>
         <a href="https://arxiv.org/abs/2510.22451"><div class="report">arXiv</div></a>
+        <a href="https://github.com/xbfu/GraphTOP"><div class="code">Github</div></a>
 	</li>
 	<li>
 		<b>Graph Prompting for Graph Learning Models: Recent Advances and Future Directions</b><br>
