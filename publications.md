@@ -45,19 +45,22 @@ subtitle: Publications - Xingbo Fu
 		<b>Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning</b><br>
 		<i><b>Xingbo Fu</b>, Zihan Chen, Yinhan He, Song Wang, Binchi Zhang, Chen Chen, Jundong Li</i><br>
 		AAAI Conference on Artificial Intelligence (AAAI 2025)<br>
-        	<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33830"><div class="paper">Paper</div></a>
-        	<a href="https://arxiv.org/abs/2412.19229"><div class="report">arXiv</div></a>
-        	<a href="https://github.com/xbfu/FedVN"><div class="code">Github</div></a>
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33830"><div class="paper">Paper</div></a>
+        <a href="https://arxiv.org/abs/2412.19229"><div class="report">arXiv</div></a>
+        <a href="https://github.com/xbfu/FedVN"><div class="code">Github</div></a>
 	</li>
 	<li>
 		<b>From Cross-Task Examples to In-Task Prompts: A Graph-Based Pseudo-Labeling Framework for In-context Learning</b><br>
 		<i>Zihan Chen, Song Wang, <b>Xingbo Fu</b>, Chengshuai Shi, Zhenyu Lei, Cong Shen, Jundong Li</i><br>
 		The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)<br>
+        <a href="https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.181.pdf"><div class="paper">Paper</div></a>
+        <a href="https://arxiv.org/abs/2510.24528"><div class="report">arXiv</div></a>
 	</li>
 	<li>
 		<b>Text-Attributed Graph Anomaly Detection via Multi-Scale Cross- and Uni-Modal Contrastive Learning</b><br>
 		<i>Yiming Xu, Xu Hua, Zhen Peng, Bin Shi, Jiarun Chen, <b>Xingbo Fu</b>, Song Wang, Bo Dong</i><br>
 		European Conference on Artificial Intelligence (ECAI 2025)<br>
+        <a href="https://ebooks.iospress.nl/doi/10.3233/FAIA251124"><div class="paper">Paper</div></a>
 		<a href="https://arxiv.org/abs/2508.00513"><div class="report">arXiv</div></a>
 	</li>
 	<li>
