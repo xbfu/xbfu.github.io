@@ -5,6 +5,18 @@ permalink: /publications/
 subtitle: Publications - Xingbo Fu
 ---
 
+
+<h2>2026</h2>
+<ul>
+	<li>
+		<b>Safety in Graph Machine Learning: Threats and Safeguards</b><br>
+		<i>Song Wang, Yushun Dong, Binchi Zhang, Zihan Chen, <b>Xingbo Fu</b>, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li</i><br>
+		IEEE Transactions on Knowledge and Data Engineering<br>
+        	<a href="https://arxiv.org/abs/2405.11034"><div class="report">arXiv</div></a>
+	</li>
+	
+</ul>
+
 <h2>2025</h2>
 <ul>
 	<li>
@@ -80,12 +92,6 @@ subtitle: Publications - Xingbo Fu
 		Transactions on Machine Learning Research (TMLR)<br>
         	<a href="https://openreview.net/forum?id=mVAp0eDfyR"><div class="paper">Paper</div></a>
         	<a href="https://arxiv.org/abs/2411.08374"><div class="report">arXiv</div></a>
-	</li>
-	<li>
-		<b>Safety in Graph Machine Learning: Threats and Safeguards</b><br>
-		<i>Song Wang, Yushun Dong, Binchi Zhang, Zihan Chen, <b>Xingbo Fu</b>, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li</i><br>
-		Preprint<br>
-        	<a href="https://arxiv.org/abs/2405.11034"><div class="report">arXiv</div></a>
 	</li>
 	
 </ul>
