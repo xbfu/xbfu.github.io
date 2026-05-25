@@ -9,6 +9,12 @@ subtitle: Publications - Xingbo Fu
 <h2>2026</h2>
 <ul>
 	<li>
+		<b>A Survey of Scaling in Large Language Model Reasoning</b><br>
+		<i>Zihan Chen, Song Wang, Zhen Tan, <b>Xingbo Fu</b>, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li</i><br>
+		ACM SIGKDD Explorations Newsletter 2026 <br>
+		<a href="https://arxiv.org/abs/2504.02181"><div class="report">arXiv</div></a>
+	</li>
+	<li>
 		<b>Safety in Graph Machine Learning: Threats and Safeguards</b><br>
 		<i>Song Wang, Yushun Dong, Binchi Zhang, Zihan Chen, <b>Xingbo Fu</b>, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li</i><br>
 		IEEE Transactions on Knowledge and Data Engineering<br>
@@ -76,12 +82,6 @@ subtitle: Publications - Xingbo Fu
 		Preprint<br>
 		<a href="https://arxiv.org/abs/2505.15116"><div class="report">arXiv</div></a>
         	<a href="https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs"><div class="code">Github</div></a>
-	</li>
-	<li>
-		<b>A Survey of Scaling in Large Language Model Reasoning</b><br>
-		<i>Zihan Chen, Song Wang, Zhen Tan, <b>Xingbo Fu</b>, Zhenyu Lei, Peng Wang, Huan Liu, Cong Shen, Jundong Li</i><br>
-		Preprint<br>
-		<a href="https://arxiv.org/abs/2504.02181"><div class="report">arXiv</div></a>
 	</li>
 	
 </ul>
