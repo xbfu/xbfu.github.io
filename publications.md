@@ -18,6 +18,7 @@ subtitle: Publications - Xingbo Fu
 		<b>Safety in Graph Machine Learning: Threats and Safeguards</b><br>
 		<i>Song Wang, Yushun Dong, Binchi Zhang, Zihan Chen, <b>Xingbo Fu</b>, Yinhan He, Cong Shen, Chuxu Zhang, Nitesh V. Chawla, Jundong Li</i><br>
 		IEEE Transactions on Knowledge and Data Engineering<br>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11372973"><div class="paper">Paper</div></a>
         <a href="https://arxiv.org/abs/2405.11034"><div class="report">arXiv</div></a>
 	</li>
 	
@@ -74,6 +75,7 @@ subtitle: Publications - Xingbo Fu
 		<b>FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs</b><br>
 		<i>Zihan Chen, <b>Xingbo Fu</b>, Yushun Dong, Jundong Li, Cong Shen</i><br>
 		Transactions on Machine Learning Research (TMLR)<br>
+		<a href="https://openreview.net/forum?id=pHii7cWco7"><div class="paper">Paper</div></a>
 		<a href="https://arxiv.org/abs/2504.21206"><div class="report">arXiv</div></a>
 	</li>
 	<li>
