@@ -1,11 +1,13 @@
-# Xingbo Fu 的个人主页
+# Xingbo Fu's Personal Website
 
-项目介绍、运行与维护说明见 [使用说明](docs/usage.md)。
+Website: [https://www.xingbofu.com/](https://www.xingbofu.com/)
 
-## 致谢
+See the [usage guide](docs/usage.md) for a project overview and instructions for running and maintaining the website.
 
-本网站基于 [PRISM](https://github.com/xyjoey/PRISM) 定制，感谢原作者 [xyjoey](https://github.com/xyjoey) 及所有贡献者。
+## Acknowledgments
 
-## 许可证
+This website is customized from [PRISM](https://github.com/xyjoey/PRISM). Thanks to the original author, [xyjoey](https://github.com/xyjoey), and all contributors.
 
-保留原 PRISM 项目的 MIT 许可证与版权声明，详见 [LICENSE](LICENSE)。
+## License
+
+This repository retains the MIT License and copyright notice from the original PRISM project. See [LICENSE](LICENSE) for details.

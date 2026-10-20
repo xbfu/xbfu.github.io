@@ -1,45 +1,45 @@
-# 项目介绍与使用说明
+# Project Overview and Usage
 
-Xingbo Fu 的个人主页，基于 Next.js、TypeScript 和 Tailwind CSS，内容保存在本地，构建后输出静态网站。
+Xingbo Fu's personal website, built with Next.js, TypeScript, and Tailwind CSS. Content is stored locally, and the build produces a static website.
 
-以下文件路径均相对于仓库根目录。
+All file paths below are relative to the repository root.
 
-## 本地运行
+## Local Development
 
-需要 Node.js 22 或以上版本。
+Requires Node.js 22 or later.
 
 ```bash
 npm install
 npm run dev
 ```
 
-打开 http://localhost:3000。
+Open http://localhost:3000.
 
-## 修改内容
+## Updating Content
 
-| 内容 | 文件 |
+| Content | Files |
 | --- | --- |
-| 站点信息、社交链接、导航和图标路径 | `content/config.toml` |
-| 首页板块配置与个人介绍 | `content/about.toml`、`content/bio.md` |
-| 最新动态 | `content/news.toml` |
-| 论文列表 | `content/publications.bib` |
-| 教程列表与详情 | `content/tutorials.toml`、`content/tutorials/` |
-| 教学与学术服务 | `content/teaching.toml`、`content/services.toml` |
-| 网站图标与头像 | `public/icon.png`、`public/xingbo-fu.jpg` |
-| 教程 PDF、照片、Logo 与字体 | `public/tutorials/`、`public/fonts/` |
+| Site information, social links, navigation, and favicon path | `content/config.toml` |
+| Homepage sections and biography | `content/about.toml`, `content/bio.md` |
+| News | `content/news.toml` |
+| Publications | `content/publications.bib` |
+| Tutorial listings and details | `content/tutorials.toml`, `content/tutorials/` |
+| Teaching and academic service | `content/teaching.toml`, `content/services.toml` |
+| Favicon and profile photo | `public/icon.png`, `public/xingbo-fu.jpg` |
+| Tutorial PDFs, photos, logos, and fonts | `public/tutorials/`, `public/fonts/` |
 
-样式位于 `src/app/globals.css`，页面与组件位于 `src/app/` 和 `src/components/`。
+Styles are defined in `src/app/globals.css`. Pages and components are located in `src/app/` and `src/components/`.
 
-## 构建与部署
+## Building and Deployment
 
 ```bash
 npm run build
 ```
 
-运行 `npm start` 可在 http://localhost:3000 预览构建后的静态网站；运行 `npm run lint` 检查代码。
+Run `npm start` to preview the built static website at http://localhost:3000. Run `npm run lint` to lint the code.
 
-将生成的 `out/` 目录部署到静态网站托管服务的站点根目录。页面、图片、字体和教程 PDF 均随构建输出，站内链接使用根路径。
+Deploy the generated `out/` directory to the root of your static hosting site. The build includes pages, images, fonts, and tutorial PDFs. Internal links use paths relative to the site root.
 
-`.github/workflows/deploy.yml` 会在推送到 `main` 后自动构建并部署到 GitHub Pages，也支持在 Actions 页面手动运行。
+`.github/workflows/deploy.yml` automatically builds and deploys the website to GitHub Pages on pushes to `main`. You can also run the workflow manually from the Actions tab.
 
-目标仓库为 `xbfu/xbfu.github.io`。首次部署前，在仓库的 `Settings → Pages → Build and deployment → Source` 中选择 `GitHub Actions`。继续使用自定义域名时，确认 `Custom domain` 为 `www.xingbofu.com`，并启用 HTTPS。
+The target repository is `xbfu/xbfu.github.io`. Before the first deployment, select `GitHub Actions` under `Settings → Pages → Build and deployment → Source`. To continue using the custom domain, ensure that `Custom domain` is set to `www.xingbofu.com` and enable HTTPS.
