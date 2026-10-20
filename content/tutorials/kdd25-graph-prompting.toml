@@ -1,0 +1,94 @@
+title = "Graph Prompting for Graph Learning Models: Recent Advances and Future Directions"
+event = "KDD 2025 Tutorial"
+time = "Monday, August 4, 2025, 1–4 PM"
+location = "Toronto Convention Centre, Toronto, Canada"
+logo = "/tutorials/kdd-2025-logo.png"
+survey_url = "https://arxiv.org/abs/2506.08326"
+slides_url = "/tutorials/Graph%20Prompting%20%28KDD%20tutorial%29.pdf"
+abstract = """
+Graph learning models have demonstrated great prowess in learning expressive representations from large-scale graph data in a wide variety of real-world scenarios. As a prevalent strategy for training powerful graph learning models, the "pre-training, adaptation" scheme first pre-trains graph learning models on unlabeled graph data in a self-supervised manner and then adapts them to specific downstream tasks. During the adaptation phase, graph prompting emerges as a promising approach that learns trainable prompts while keeping the pre-trained graph learning models unchanged. This tutorial will cover recent advancements in graph prompting including:
+"""
+topics = [
+  "Representative graph pre-training methods that serve as the foundation step of graph prompting",
+  "Mainstream techniques in graph prompting and elaborate on how they design learnable prompts for graph prompting",
+  "Real-world applications of graph prompting from different domains",
+  "Open challenges in existing studies with promising future directions in this field"
+]
+
+[[presenters]]
+name = "Xingbo Fu"
+institution = "University of Virginia"
+image = "/tutorials/Xingbo.png"
+url = "/"
+
+[[presenters]]
+name = "Zehong Wang"
+institution = "University of Notre Dame"
+image = "/tutorials/Zehong.jpg"
+url = "https://zehong-wang.github.io/"
+
+[[presenters]]
+name = "Jundong Li"
+institution = "University of Virginia"
+image = "/tutorials/Jundong.png"
+url = "https://jundongli.github.io/"
+
+[[organizers]]
+name = "Xingbo Fu"
+role = "PhD student"
+institution = "University of Virginia"
+url = "/"
+
+[[organizers]]
+name = "Zehong Wang"
+role = "PhD student"
+institution = "University of Notre Dame"
+url = "https://zehong-wang.github.io/"
+
+[[organizers]]
+name = "Zihan Chen"
+role = "PhD student"
+institution = "University of Virginia"
+url = "https://chen-1031.github.io/"
+
+[[organizers]]
+name = "Jiazheng Li"
+role = "PhD student"
+institution = "University of Connecticut"
+url = "https://www.linkedin.com/in/jiazheng-li-730169259/"
+
+[[organizers]]
+name = "Yaochen Zhu"
+role = "PhD student"
+institution = "University of Virginia"
+url = "https://www.ychzhu.com/"
+
+[[organizers]]
+name = "Zhenyu Lei"
+role = "PhD student"
+institution = "University of Virginia"
+url = "https://lzyfischer.github.io/"
+
+[[organizers]]
+name = "Cong Shen"
+role = "Associate Professor"
+institution = "University of Virginia"
+url = "https://cshen317.github.io/"
+
+[[organizers]]
+name = "Yanfang Ye"
+role = "Galassi Family Collegiate Professor"
+institution = "University of Notre Dame"
+url = "http://yes-lab.org/"
+
+[[organizers]]
+name = "Chuxu Zhang"
+role = "Associate Professor"
+institution = "University of Connecticut"
+url = "https://chuxuzhang.github.io/"
+
+[[organizers]]
+name = "Jundong Li"
+role = "Associate Professor"
+institution = "University of Virginia"
+url = "https://jundongli.github.io/"

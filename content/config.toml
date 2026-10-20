@@ -1,0 +1,52 @@
+[site]
+title = "Xingbo Fu"
+favicon = "/icon.png"
+last_updated = "October 19, 2026"
+
+[author]
+name = "Xingbo Fu"
+title = ""
+institution = "Bloomberg AI"
+avatar = "/xingbo-fu.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "xf3av AT outlook DOT com"
+google_scholar = "https://scholar.google.com/citations?user=KBVaud0AAAAJ"
+github = "https://github.com/xbfu"
+linkedin = "https://www.linkedin.com/in/xingbofu/"
+
+[features]
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Tutorials"
+type = "page"
+target = "tutorials"
+href = "/tutorials"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"

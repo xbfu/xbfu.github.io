@@ -1,0 +1,31 @@
+type = "card"
+title = "Services"
+
+[[items]]
+title = "Conference Program Committee"
+content = """
+- ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)
+- The ACM Web Conference (WWW)
+- Neural Information Processing Systems (NeurIPS)
+- International Conference on Learning Representations (ICLR)
+- International Conference on Machine Learning (ICML)
+- Annual AAAI Conference on Artificial Intelligence (AAAI)
+- International Joint Conference on Artificial Intelligence (IJCAI)
+- ACM International Conference on Information and Knowledge Management (CIKM)
+- International Conference on Artificial Intelligence and Statistics (AISTATS)
+"""
+
+[[items]]
+title = "Journal Reviewer"
+content = """
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- ACM Transactions on Knowledge Discovery from Data (TKDD)
+- IEEE/ACM Transactions on Networking (TON)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- IEEE Transactions on Big Data (TBD)
+- Information Sciences
+- ACM Transactions on Intelligent Systems and Technology (TIST)
+- Neurocomputing (NEUCOM)
+- Big Data Research (BDR)
+"""

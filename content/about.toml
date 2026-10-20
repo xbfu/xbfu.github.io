@@ -1,0 +1,23 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "Graph Machine Learning",
+  "Trustworthy Machine Learning",
+  "Retrieval-Augmented Generation (RAG)",
+  "Foundation Models"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"
+

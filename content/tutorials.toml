@@ -1,0 +1,22 @@
+type = "card"
+title = "Tutorials"
+
+[[items]]
+title = "Graph Prompting for Graph Learning Models: Recent Advances and Future Directions"
+date = "2025"
+venue = "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
+link = "/tutorials/kdd25-graph-prompting/"
+link_label = "Website"
+content = """
+**Xingbo Fu**, Zehong Wang, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li
+"""
+
+[[items]]
+title = "Federated Graph Learning: Recent Advances and Future Directions"
+date = "2025"
+venue = "SIAM International Conference on Data Mining (SDM)"
+link = "/tutorials/Federated%20Graph%20Learning%20%28SDM%20Tutorial%29.pdf"
+link_label = "Slides"
+content = """
+**Xingbo Fu**, Zihan Chen, Binchi Zhang, Chen Chen, Jundong Li
+"""

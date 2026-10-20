@@ -1,0 +1,17 @@
+type = "card"
+title = "Teaching"
+
+[[items]]
+title = "APMA 3100 - Probability"
+subtitle = "Teaching Assistant"
+date = "Spring 2023"
+
+[[items]]
+title = "ECE/CS 6501 - Geometry of Data"
+subtitle = "Teaching Assistant"
+date = "Fall 2022"
+
+[[items]]
+title = "APMA 3110 - Applied Statistics and Probability"
+subtitle = "Teaching Assistant"
+date = "Spring 2022"

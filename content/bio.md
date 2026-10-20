@@ -1,0 +1,2 @@
+
+I build AI agents at [Bloomberg AI](https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/), focusing on AI-driven solutions for financial data. I received my Ph.D. in Computer Engineering from the University of Virginia, where I was advised by Dr. [Jundong Li](https://jundongli.github.io/). I obtained my M.S. and B.Eng. degrees from Xi'an Jiaotong University.
